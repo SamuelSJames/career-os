@@ -8,7 +8,7 @@
 **Focus:** Get the system + filming workflow ready before the mission clock starts.
 
 ### Study
-- [ ] Confirm CCNP ENCOR study resources (Official Cert Guide 2nd Ed — buy; Udemy Kevin Wallace — wait for sale)
+- [ ] Confirm CCNP ENCOR study resources via **work learning platform** (exams + training are employer-funded — check O'Reilly/Skillsoft/Cisco training before buying anything personally)
 - [ ] Skim ENCOR blueprint, map topics to the Q1 plan
 
 ### Lab
