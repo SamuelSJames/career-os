@@ -61,14 +61,23 @@ Everything I study must reinforce one or more of these identities.
 
 ---
 
-## Success by June 30, 2027 (Year One)
+## The 3-Year Arc (Jul 2026 → Jun 2029)
 
-- ✓ CCNP Enterprise completed (or very near completion)
-- ✓ AWS Solutions Architect Associate
-- ✓ Git & GitHub mastered
-- ✓ GitHub Actions understood
-- ✓ Multiple GitHub projects
-- ✓ 50+ documented labs
-- ✓ ~52 educational videos
-- ✓ Significantly stronger communication skills
-- ✓ **Most important:** think like an architect, not just a technician.
+- **Year 1 — Enterprise Networking:** CCNP Enterprise (ENCOR + ENARSI). Git mastered. ~52 videos, ~25 labs.
+- **Year 2 — Cloud + Automation:** AWS SA Associate. Ansible (deep skill) + Terraform/IaC + GitHub Actions.
+  Automation capstone. ~104 videos total.
+- **Year 3 — Specialization + the role:** AWS Advanced Networking Specialty (the niche credential).
+  Flagship hybrid capstone. Land the customer-facing SA role. ~150+ videos, 50+ labs total.
+
+_(Optional Red Hat Ansible cert decided in Year 3 on market signal. Small course corrections expected —
+this is the baseline.)_
+
+## Success by June 30, 2029 (Mission)
+
+- ✓ CCNP Enterprise (Y1) · AWS SA Associate (Y2) · AWS Advanced Networking Specialty (Y3)
+- ✓ Ansible / Terraform / GitHub Actions mastered, proven in capstones
+- ✓ Git & GitHub mastered · multiple GitHub projects · 50+ documented labs · ~150 videos
+- ✓ A flagship hybrid network + AWS architecture portfolio piece
+- ✓ **Most important:** think AND communicate like an architect — capable of explaining complex
+  enterprise + cloud technology to engineers, customers, and executives.
+- ✓ Positioned as / landing a **customer-facing AWS Solutions Architect** role.

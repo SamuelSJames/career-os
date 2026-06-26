@@ -23,40 +23,38 @@ If I can't teach it clearly, I don't understand it yet.
 
 ---
 
-## 📊 Where I'm At (2-Year Foundation: Jul 2026 – Jun 2028)
+## 📊 Where I'm At (3-Year Mission: Jul 2026 – Jun 2029)
 
 > _Updated weekly. See [PROGRESS.md](PROGRESS.md) for detail._
 
 | Metric | Progress |
 |---|---|
 | **Current focus** | CCNP ENCOR (Year 1, foundation quarter) |
-| **Videos published** | 0 / 104 (2-yr) |
-| **Labs documented** | 0 / 50 (2-yr) |
+| **Videos published** | 0 / ~150 (3-yr) |
+| **Labs documented** | 0 / 50+ (3-yr) |
 | **CCNP Enterprise** | ⬜ Year 1 (ENCOR → ENARSI) |
 | **AWS SA Associate** | ⬜ Year 2 |
+| **AWS Adv. Networking – Specialty** | ⬜ Year 3 |
 | **Git / GitHub** | 🟦 In progress (running this mission on it) |
-| **GitHub Actions / IaC** | ⬜ Year 2 |
+| **GitHub Actions / IaC / Ansible** | ⬜ Year 2 |
 
 ---
 
-## 🗺️ Roadmap (2 years, sequenced — one domain at a time)
+## 🗺️ Roadmap (3 years, sequenced — one theme per year)
 
-Full plan in [ROADMAP.md](ROADMAP.md). Clean split so each domain goes deep without burnout:
+Full plan in [ROADMAP.md](ROADMAP.md). Clean themes so each goes deep without burnout:
 
-**Year 1 (Jul 2026–Jun 2027) — Enterprise Networking + CCNP**
-1. Q1: CCNP ENCOR core (OSPF, BGP, switching, STP, EtherChannel)
-2. Q2: ENCOR continued + bank video buffer before the holidays 🦃🎄
-3. Q3: Pass ENCOR (~Feb 2027) → start ENARSI
-4. Q4: Finish ENARSI → **CCNP complete**
+**Year 1 (Jul'26–Jun'27) — Enterprise Networking + CCNP**
+→ CCNP ENCOR (~Feb '27) then ENARSI → **CCNP complete**
 
-**Year 2 (Jul 2027–Jun 2028) — Cloud + Automation + Communication**
-1. Q1: AWS Solutions Architect Associate study
-2. Q2: Pass SAA + bank video buffer 🦃🎄
-3. Q3: GitHub Actions / CI-CD + Terraform/IaC + Python automation
-4. Q4: Flagship hybrid network + AWS capstone (IaC, CI/CD, documented)
+**Year 2 (Jul'27–Jun'28) — Cloud Foundation + Automation**
+→ **AWS SA Associate** + GitHub Actions/IaC + **Ansible (deep skill)** + automation capstone
 
-Git & GitHub Actions are learned *as the tooling that runs the labs* — not as separate study blocks.
-**June 2029** remains the Solutions Architect mission target; these two years build the foundation.
+**Year 3 (Jul'28–Jun'29) — Specialization + Landing the SA Role**
+→ **AWS Advanced Networking – Specialty (ANS-C01)** + flagship hybrid capstone → **land the SA role** 🎯
+
+Git/Actions/Ansible are learned *as the tooling that runs the labs*. Holiday break (🦃🎄) every year.
+**June 30, 2029** = the Solutions Architect mission date.
 
 ---
 

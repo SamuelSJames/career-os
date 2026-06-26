@@ -1,13 +1,14 @@
 # Videos
 
-Educational videos teaching what I build. Target: **~52/year → 104+ over the 2-year foundation**.
+Educational videos teaching what I build. Target: **~52/year → ~150+ over the 3-year mission**.
 Audience: aspiring Infrastructure, Network, and Cloud Engineers.
 
-**Count: 0 / 104 (Year 1: 0/52 · Year 2: 0/52)**
+**Count: 0 / ~156 (Y1: 0/52 · Y2: 0/52 · Y3: 0/52)**
 
 ## Video focus by year
 - **Year 1 (CCNP):** the ENCOR domain distribution below (networking-heavy, pnetlab walkthroughs).
-- **Year 2 (AWS/automation):** VPC/hybrid networking, IAM, HA/DR, GitHub Actions/CI-CD, Terraform/IaC.
+- **Year 2 (AWS/automation):** VPC/hybrid networking, IAM, HA/DR, Ansible, Terraform/IaC, GitHub Actions.
+- **Year 3 (Specialty):** advanced AWS networking (DX/TGW, hybrid DNS, network security), capstone build.
 
 ## Year-1 video distribution by ENCOR domain (weighted by exam % + lab-richness, not evenly)
 | Domain | Exam weight | ~Videos | Format |
