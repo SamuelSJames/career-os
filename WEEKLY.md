@@ -8,11 +8,14 @@
 **Focus:** Get the system + filming workflow ready before the mission clock starts.
 
 ### Study
-- [ ] Confirm CCNP ENCOR study resources (official cert guide + lab platform: CML / GNS3 / EVE-NG / Packet Tracer)
+- [ ] Confirm CCNP ENCOR study resources (Official Cert Guide 2nd Ed — buy; Udemy Kevin Wallace — wait for sale)
 - [ ] Skim ENCOR blueprint, map topics to the Q1 plan
 
 ### Lab
-- [ ] Stand up the lab environment (pick the simulator, get one topology running)
+- [x] Lab platform decided: **pnetlab** (already in homelab) — confirm IOS images loaded
+
+### Side (rest track, capped 30min–2hr/wk, never steals ENCOR time)
+- [ ] GitHub Foundations — light review only when context-switching from heavy ENCOR study
 
 ### Video
 - [ ] Decide filming setup (screen + voice, diagrams tool) — keep it dead simple

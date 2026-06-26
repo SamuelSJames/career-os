@@ -4,8 +4,11 @@ The tools I actually use on the road to Solutions Architect + Network Automation
 
 ## Networking
 - Cisco IOS / IOS-XE (CCNP Enterprise track)
-- Lab simulation: _TBD — CML / EVE-NG / GNS3 / Packet Tracer_
+- **Lab simulation: pnetlab** (self-hosted in homelab — sources IOS images) ✅
 - Wireshark (packet analysis)
+
+## Study Notes
+- **Trilium Notes** — "CCNP ENCOR Study" folder with 6 domain subfolders (notes + video planning per domain)
 
 ## Cloud
 - AWS (VPC, EC2, IAM, Route 53, S3, ELB, CloudFormation) — SA Associate track

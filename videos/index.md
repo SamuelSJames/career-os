@@ -5,6 +5,19 @@ Audience: aspiring Infrastructure, Network, and Cloud Engineers.
 
 **Count: 0 / 52 (Year 1)**
 
+## Video distribution by ENCOR domain (weighted by exam % + lab-richness, not evenly)
+| Domain | Exam weight | ~Videos | Format |
+|---|---|---|---|
+| Infrastructure | 30% | ~16 | pnetlab screen-share walkthroughs (OSPF/BGP/STP/EtherChannel) |
+| Security | 20% | ~10 | mix of lab + diagram explainers |
+| Architecture | 15% | ~8 | whiteboard/diagram (design concepts) |
+| Automation & AI | 15% | ~8 | code/REST/Ansible demos |
+| Virtualization | 10% | ~5 | lab + concept (VRF/VXLAN/GRE) |
+| Network Assurance | 10% | ~5 | lab (SNMP/NetFlow/SPAN) |
+| **Total** | | **~52** | |
+
+_Notes + per-domain video planning live in Trilium → "CCNP ENCOR Study" (6 domain subfolders)._
+
 | # | Date | Title | Topic | Lab | Link |
 |---|---|---|---|---|---|
 | _—_ | | _(first video pending Q1)_ | | | |
