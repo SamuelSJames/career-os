@@ -71,6 +71,7 @@ What I actually use day to day → see [stack.md](stack.md).
 - [WEEKLY.md](WEEKLY.md) — this week's plan + Sunday accountability log
 - [PROGRESS.md](PROGRESS.md) — running tally vs. the June-2027 goals
 - [DECISION-LOG.md](DECISION-LOG.md) — every "should I learn X?" filtered against the mission
+- [plans/](plans/) — week-by-week study plans ([ENCOR 26-wk](plans/encor-26-week-plan.md), [ENARSI 28-wk](plans/enarsi-28-week-plan.md))
 - [labs/](labs/) — one folder per lab (README + diagram + configs + write-up + video)
 - [videos/](videos/index.md) — published educational videos
 

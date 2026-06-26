@@ -28,6 +28,12 @@ Oct–mid Nov and schedule-publish through the break.
 Finish **CCNP Enterprise** (ENCOR core + ENARSI concentration). Build the networking foundation
 that makes me the rare SA who deeply understands enterprise networks.
 
+> **Detailed week-by-week plans:** [`plans/encor-26-week-plan.md`](plans/encor-26-week-plan.md) (exam ~Feb 8, 2027)
+> and [`plans/enarsi-28-week-plan.md`](plans/enarsi-28-week-plan.md) (exam ~Aug 23, 2027).
+> **Accepted pace (DECISION-LOG 2026-06-26):** 26-wk ENCOR + 28-wk ENARSI → **CCNP completes ~Sep 2027**,
+> spilling ~one quarter into Year 2. Year 2 AWS SAA start slides to **~Oct 2027**. Sustainable > heroic;
+> the Jun-2029 mission date is unaffected.
+
 ### Q1 — Jul–Sep 2026 · CCNP ENCOR Core (the spine)
 - **Study:** routing fundamentals, OSPF (single/multi-area), EIGRP basics, VLANs, STP, EtherChannel.
 - **Labs:** ~1/week in pnetlab (OSPF, STP, EtherChannel, inter-VLAN, HA basics).
@@ -43,17 +49,19 @@ that makes me the rare SA who deeply understands enterprise networks.
 - **Target:** sit **ENCOR 350-401 ~Feb 2027** (study carries into early Q3).
 
 ### Q3 — Jan–Mar 2027 · ENCOR exam + start ENARSI
-- **Jan–Feb:** final ENCOR review + practice exams → **pass ENCOR.**
-- **Feb–Mar:** begin **ENARSI 300-410** — EIGRP/OSPF/BGP deep, VPN services (DMVPN),
-  infrastructure security & services, troubleshooting.
+- **Jan–Feb:** final ENCOR review + practice exams → **pass ENCOR (~Feb 8, 2027).**
+- **Feb–Mar:** begin **ENARSI 300-410** (28-wk plan) — EIGRP/OSPF/BGP deep, redistribution, VPN
+  services (MPLS/DMVPN), infrastructure security & services, heavy troubleshooting.
 - **Labs + Video:** ~1/week (≈13).
 
-### Q4 — Apr–Jun 2027 · Finish ENARSI → CCNP COMPLETE
-- **Study:** complete ENARSI; heavy troubleshooting labs.
-- **Target:** **pass ENARSI → CCNP Enterprise complete by ~Jun 2027.** ✅
+### Q4 — Apr–Jun 2027 · ENARSI in progress (continues into Year 2)
+- **Study:** ENARSI Layer-3 deep + redistribution/route-control + VPN — troubleshooting labs.
+- **Note:** at the full 28-wk pace, ENARSI is **mid-flight** at the Jun-2027 year boundary; it
+  finishes early Year 2. CCNP does **not** complete in Jun 2027 — see revised target below.
 - **Labs + Video:** ~1/week (≈12). Consolidate the networking portfolio.
 
-**End of Year 1:** CCNP done · ~52 videos · ~25 labs · Git mastered · architect-level networking.
+**End of Year 1:** ENCOR passed · ENARSI ~70% through · ~52 videos · ~25 labs · Git mastered ·
+architect-level core networking. (CCNP completes ~Sep 2027.)
 
 ---
 
@@ -61,10 +69,13 @@ that makes me the rare SA who deeply understands enterprise networks.
 
 Bring networking depth into AWS. Earn SA Associate, learn Ansible + IaC deeply, formalize CI/CD.
 
-### Q1 — Jul–Sep 2027 · AWS Solutions Architect Associate
-- **Study:** VPC design, hybrid networking (VPN/Direct Connect/Transit Gateway), IAM, EC2, ELB,
+### Q1 — Jul–Sep 2027 · Finish ENARSI → CCNP COMPLETE, then start AWS SAA
+- **Jul–Aug:** complete **ENARSI 300-410** (cross-domain troubleshooting + practice exams) →
+  **pass ENARSI ~Aug 2027 → CCNP Enterprise complete (~Sep 2027).** ✅ 🎉
+- **Sep–onward:** begin **AWS Solutions Architect Associate** (~Oct kickoff).
+- **Study (SAA):** VPC design, hybrid networking (VPN/Direct Connect/Transit Gateway), IAM, EC2, ELB,
   Route 53, S3, security, cost optimization, HA, DR. Focus: **design thinking — why.**
-- **Labs:** ~1/week — real VPCs, hybrid connectivity, HA patterns.
+- **Labs:** ~1/week — ENARSI troubleshooting labs, then real VPCs / hybrid connectivity / HA patterns.
 - **Video:** ~1/week (≈13). "Networking-in-AWS" = my differentiator.
 
 ### Q2 — Oct–Dec 2027 · SAA exam + BANK BUFFER 🦃🎄
