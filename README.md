@@ -23,33 +23,40 @@ If I can't teach it clearly, I don't understand it yet.
 
 ---
 
-## 📊 Where I'm At (Year 1: Jul 2026 – Jun 2027)
+## 📊 Where I'm At (2-Year Foundation: Jul 2026 – Jun 2028)
 
 > _Updated weekly. See [PROGRESS.md](PROGRESS.md) for detail._
 
 | Metric | Progress |
 |---|---|
-| **Current focus** | CCNP ENCOR (foundation quarter) |
-| **Videos published** | 0 / 52 |
-| **Labs documented** | 0 / 50 |
-| **CCNP Enterprise** | ⬜ Not started |
-| **AWS SA Associate** | ⬜ Not started |
-| **Git / GitHub** | 🟦 In progress (using it to run this mission) |
-| **GitHub Actions** | ⬜ Not started |
+| **Current focus** | CCNP ENCOR (Year 1, foundation quarter) |
+| **Videos published** | 0 / 104 (2-yr) |
+| **Labs documented** | 0 / 50 (2-yr) |
+| **CCNP Enterprise** | ⬜ Year 1 (ENCOR → ENARSI) |
+| **AWS SA Associate** | ⬜ Year 2 |
+| **Git / GitHub** | 🟦 In progress (running this mission on it) |
+| **GitHub Actions / IaC** | ⬜ Year 2 |
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Roadmap (2 years, sequenced — one domain at a time)
 
-Year One is **sequenced, not parallel** — one big rock at a time so I finish instead of burning out.
-Full plan in [ROADMAP.md](ROADMAP.md).
+Full plan in [ROADMAP.md](ROADMAP.md). Clean split so each domain goes deep without burnout:
 
-1. **Q1 (Jul–Sep):** CCNP ENCOR core — routing, OSPF, BGP, VLANs, STP, EtherChannel
-2. **Q2 (Oct–Dec):** ENCOR continued + bank video buffer before the holiday break 🦃🎄
-3. **Q3 (Jan–Mar):** AWS Solutions Architect Associate
-4. **Q4 (Apr–Jun):** CCNP concentration exam + consolidation
+**Year 1 (Jul 2026–Jun 2027) — Enterprise Networking + CCNP**
+1. Q1: CCNP ENCOR core (OSPF, BGP, switching, STP, EtherChannel)
+2. Q2: ENCOR continued + bank video buffer before the holidays 🦃🎄
+3. Q3: Pass ENCOR (~Feb 2027) → start ENARSI
+4. Q4: Finish ENARSI → **CCNP complete**
+
+**Year 2 (Jul 2027–Jun 2028) — Cloud + Automation + Communication**
+1. Q1: AWS Solutions Architect Associate study
+2. Q2: Pass SAA + bank video buffer 🦃🎄
+3. Q3: GitHub Actions / CI-CD + Terraform/IaC + Python automation
+4. Q4: Flagship hybrid network + AWS capstone (IaC, CI/CD, documented)
 
 Git & GitHub Actions are learned *as the tooling that runs the labs* — not as separate study blocks.
+**June 2029** remains the Solutions Architect mission target; these two years build the foundation.
 
 ---
 
@@ -62,7 +69,7 @@ What I actually use day to day → see [stack.md](stack.md).
 ## 📂 Repo Map
 
 - [MISSION.md](MISSION.md) — the charter / north star
-- [ROADMAP.md](ROADMAP.md) — Year 1 by quarter → week (holiday-aware)
+- [ROADMAP.md](ROADMAP.md) — 2-year plan, Year 1 (CCNP) + Year 2 (AWS/automation), by quarter (holiday-aware)
 - [WEEKLY.md](WEEKLY.md) — this week's plan + Sunday accountability log
 - [PROGRESS.md](PROGRESS.md) — running tally vs. the June-2027 goals
 - [DECISION-LOG.md](DECISION-LOG.md) — every "should I learn X?" filtered against the mission

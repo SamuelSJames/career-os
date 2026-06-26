@@ -1,11 +1,15 @@
 # Videos
 
-Educational videos teaching what I build. Target: ~52/year, 100+ over two years.
+Educational videos teaching what I build. Target: **~52/year → 104+ over the 2-year foundation**.
 Audience: aspiring Infrastructure, Network, and Cloud Engineers.
 
-**Count: 0 / 52 (Year 1)**
+**Count: 0 / 104 (Year 1: 0/52 · Year 2: 0/52)**
 
-## Video distribution by ENCOR domain (weighted by exam % + lab-richness, not evenly)
+## Video focus by year
+- **Year 1 (CCNP):** the ENCOR domain distribution below (networking-heavy, pnetlab walkthroughs).
+- **Year 2 (AWS/automation):** VPC/hybrid networking, IAM, HA/DR, GitHub Actions/CI-CD, Terraform/IaC.
+
+## Year-1 video distribution by ENCOR domain (weighted by exam % + lab-richness, not evenly)
 | Domain | Exam weight | ~Videos | Format |
 |---|---|---|---|
 | Infrastructure | 30% | ~16 | pnetlab screen-share walkthroughs (OSPF/BGP/STP/EtherChannel) |
