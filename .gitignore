@@ -1,0 +1,10 @@
+# Never commit secrets or local clutter to this PUBLIC repo
+*.env
+*.pem
+*.key
+credentials*
+secrets*
+.DS_Store
+*.swp
+node_modules/
+__pycache__/
