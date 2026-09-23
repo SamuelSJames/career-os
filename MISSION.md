@@ -7,7 +7,7 @@ technical depth of a **Network Automation Engineer**.
 
 - **Target date:** June 30, 2029
 - **Financial goal:** $200,000+ annual compensation (by 2030)
-- **Current position:** AWS Infrastructure Delivery Technician (L4)
+- **Current position:** Network Deployment Build Lead — AWS Global Network Deployment (GND) _(promoted 2026-09-08)_
 - **Expected progression:** Move toward management in 12–24 months while continuing
   technical development outside of work.
 
