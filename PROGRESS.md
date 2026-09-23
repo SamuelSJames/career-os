@@ -2,7 +2,7 @@
 
 > The honest scoreboard for the 3-year mission (Jul 2026 → Jun 2029). Updated weekly (Sundays).
 
-_Last updated: 2026-06-26 (added 26-wk ENCOR + 28-wk ENARSI plans; accepted ~Sep 2027 CCNP finish)_
+_Last updated: 2026-09-08 (promotion → Network Deployment Build Lead, AWS GND; dropped Linux+/AWS ML)_
 
 ## Goals — Status
 
@@ -51,3 +51,12 @@ Index in [labs/](labs/).
   + [ENARSI 28-wk](plans/enarsi-28-week-plan.md) (exam ~Aug 23 2027). **Accepted deeper pace (option a):**
   CCNP completes **~Sep 2027** (~one quarter into Y2); AWS SAA start slides to ~Oct 2027. Jun-2029 mission
   date unaffected. ROADMAP Y1 Q3–Q4 + Y2 Q1 and DECISION-LOG updated to match.
+- **2026-09-08** — 🎉 **PROMOTED: Network Deployment Build Lead**, AWS **Global Network Deployment (GND)**
+  (from Infrastructure Delivery Technician, L4). This is real mission progress — the day job moved from
+  general infra delivery *into networking specialization*, directly reinforcing the "SA who deeply
+  understands enterprise networks" identity. New scope: deliver end-to-end data center network builds
+  across a cluster (~30 buildings, 1–5 active), own capacity/materials planning + scope of work + RFQ/vendor
+  management, build & troubleshoot network devices with engineers, quality handoff to ops; international
+  travel (Canada) expected 2027. Earned **Asana** certification. Profile synced across resume site
+  (samjam-tech), LinkedIn, and Amazon internal (master: ai-workspace/PROFILE.md). Also **dropped** the
+  Linux+ and AWS ML Engineer pursuits — off-path per the mission filter; focus stays CCNP → AWS SA.
